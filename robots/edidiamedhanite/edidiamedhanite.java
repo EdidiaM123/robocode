@@ -39,7 +39,7 @@ public class edidiamedhanite extends Robot {
             
         }
         else if(distance > 700 && distance <= 800){
-            fire(2.3);
+            fire(2);
             ahead(100);
         }
         else if(distance > 300 && distance <= 700){
